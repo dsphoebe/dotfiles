@@ -1,0 +1,10 @@
+*.DS_store
+
+.vscode
+
+*.pyc
+
+*.js
+node_modules
+
+*.css
